@@ -1,29 +1,19 @@
-# 👋 Hi, I'm amritdubey78999-hub
+<h1 align="center">Hi 👋, I'm Amrit Dubey</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### 💫 About Me
-- 🔭 I’m currently working on **problem solving in C++**
-- 🌱 I’m currently expanding my knowledge in **Advanced Frontend Ecosystems**
-- 🤝 Open to collaborations on **Web Development projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, and C++**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritdubey78999-hub" alt="amritdubey78999-hub" /></a> </p>
 
----
+- 📫 How to reach me **amritdubey78999@gmail.com**
 
-### 🛠️ Languages and Tools
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://githubusercontent.com" alt="cplusplus" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/> &nbsp;
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Analytics & Activity
-<p align="left">
-  <img src="https://vercel.app" alt="Amrit's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritdubey78999-hub&show_icons=true&locale=en&layout=compact" alt="amritdubey78999-hub" /></p>
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritdubey78999-hub&show_icons=true&locale=en" alt="amritdubey78999-hub" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritdubey78999-hub&" alt="amritdubey78999-hub" /></p>
