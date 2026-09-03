@@ -1,3 +1,15 @@
+#  hi i'm 𝓐𝓶𝓻𝓲𝓽 𝓭𝓾𝓫𝓮𝔂.....
+**A passionate frontend developer *
+
+Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** SIH project
+- 🌱 **I’m currently learning:** DSA in C++ 
+- 👯 **I’m looking to collaborate on:** Not now 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** amritdubey78999@gmail.com
+- 😄 **Pronouns:** DUBEY JIIIIIIIII
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 
@@ -17,8 +29,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amritdubey78999-hub&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+खुदी को कर बुलंद इतना कि हर तकदीर से पहले,खुदा बंदे से खुद पूछे, बता तेरी रज़ा क्या है।
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amritdubey78999-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
