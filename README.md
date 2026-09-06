@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** amritdubey78999@gmail.com
 - 😄 **Pronouns:** DUBEY JIIIIIIIII
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:**I'm not single because I Love Tech and Tech Love Me
 
 
 
