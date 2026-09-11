@@ -18,11 +18,8 @@ Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://vercel.app)
 
-![Amrit's GitHub Activity](https://vercel.app)
-
 ![Top Langs](https://vercel.app)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amritdubey78999-hub&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Snake Game Repo View -->
 
