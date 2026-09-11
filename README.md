@@ -11,6 +11,12 @@ Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or 
 - 😄 **Pronouns:** DUBEY JIIIIIIIII
 - ⚡ **Fun fact:**I'm not single because I Love Tech and Tech Love Me
 
+- # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amritdubey78999-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amritdubey78999-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amritdubey78999-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 # 💻 Tech Stack:
