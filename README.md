@@ -16,8 +16,12 @@ Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amritdubey78999-hub&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=amritdubey78999-hub&theme=ambient_gradient&hide_border=false)<br/>
+![GitHub Stats](https://shion.dev)
+
+![Amrit's GitHub Activity](https://vercel.app)
+
+![Top Langs](https://shion.dev)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amritdubey78999-hub&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Snake Game Repo View -->
