@@ -33,7 +33,7 @@ Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amritdubey78999-hub&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
 
-खुदी को कर बुलंद इतना कि हर तकदीर से पहले,खुदा बंदे से खुद पूछे, बता तेरी रज़ा क्या है।
+खुदी को कर बुलंद इतना कि हर तकदीर से पहले,खुदा बंदे से खुद पूछे, बता तेरी रज़ा क्या है। 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amritdubey78999-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
