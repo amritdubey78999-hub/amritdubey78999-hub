@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** SIH project 
+- 🔭 **I’m currently working on:** Upskilling myself (AMRIT) 
 - 🌱 **I’m currently learning:** DSA in C++ 
 - 👯 **I’m looking to collaborate on:** Not now 
 - 💬 **Ask me about:** Collaboration, Tech Support
