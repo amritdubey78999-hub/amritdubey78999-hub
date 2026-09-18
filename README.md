@@ -1,7 +1,7 @@
 #  hi i'm 𝓐𝓶𝓻𝓲𝓽 𝓭𝓾𝓫𝓮𝔂..... 
-**A passionate frontend developer *   
+**A passionate frontend developer *    
 
-Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **amritdubey78999@gmail.com** For Collaboration,/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Upskilling myself (AMRIT) 
 - 🌱 **I’m currently learning:** DSA in C++ 
